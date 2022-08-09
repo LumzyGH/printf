@@ -1,7 +1,7 @@
 /*
  * File: handlers.c
- * Auth: Brennan D Baraban
- *       Michael Klein
+ * Auth: Adebanjo Olumide 
+ *       Idjerhe Onanefe
  */
 
 #include "main.h"
