@@ -1,6 +1,7 @@
 /*
  * File: modifiers.c
- * Auth: Brennan D Baraban
+ * * Auth: Adebanjo Olumide 
+ *         Idjerhe Onanefe
  */
 
 #include "main.h"
