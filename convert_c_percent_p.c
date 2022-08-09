@@ -1,6 +1,7 @@
 /*
  * File: convert_c_percent_p.c
- * Auth: Brennan D Baraban
+ * Auth: * Auth: Adebanjo Olumide
+ *         Idjerhe Onanefe
  */
 
 #include "main.h"
